@@ -23,7 +23,7 @@ const clientes = [
     { nombere: "Julian Amagua", edad: 20, tickets: 1 },
     {nombere: "Rafa Chiriboga", edad: 24, tickets: 2},
     {nombre: "Josue Mendoza", edad: 12, tickets: 5},
-    {nombere: "Samuel Quinatoa", edad 10, tickets:7},
+    {nombere: "Samuel Quinatoa", edad: 10, tickets:7},
     // Asegúrate de incluir: 1 menor más, 1 mayor más, y 2 adultos (18-64 años)
 ];
 
