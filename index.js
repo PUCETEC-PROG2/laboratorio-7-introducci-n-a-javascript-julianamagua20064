@@ -20,14 +20,13 @@ const clientes = [
     { nombre: "Pablo Pérez", edad: 15, tickets: 2 },     // Menor
     { nombre: "María López", edad: 70, tickets: 1 },     // Mayor
     // TODO: Agrega 4 clientes más siguiendo esta estructura
-    { nombere: "Julian Amagua", edad: 20, tickets: 1 },
-    {nombere: "Rafa Chiriboga", edad: 24, tickets: 2},
+    { nombre: "Julian Amagua", edad: 20, tickets: 1 },
+    {nombre: "Rafa Chiriboga", edad: 24, tickets: 2},
     {nombre: "Josue Mendoza", edad: 12, tickets: 5},
-    {nombere: "Samuel Quinatoa", edad: 68, tickets:7},
-    
+    {nombre: "Samuel Quinatoa", edad: 68, tickets:7},
+
     // Asegúrate de incluir: 1 menor más, 1 mayor más, y 2 adultos (18-64 años)
 ];
-
 
 // =========================================
 // PASO 2: PROCESAR CLIENTES
